@@ -9,9 +9,10 @@ Os dados foram tratados e modelados diretamente no **Power Query**, e cada proje
 
 | Área | Descrição | Linhas |
 |------|------------|--------|
+| **Comercial Projeto Final** | Análise exploratória de dados voltada ao setor comercial. | ~35.762 |
 | **Recursos Humanos (RH)** | visão completa e estratégica sobre o capital humano da empresa. | ~1.971 |
 | **Logística** | Análise de entregas, custos e prazos. | ~ |
-| **Vendas** | Indicadores de receita e rentabilidade. | ~|
+
 
 ---
 
