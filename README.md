@@ -1,8 +1,7 @@
 # 📊 Dashboards Power BI
 
 Repositório com dashboards desenvolvidos em **Power BI**, simulando cenários empresariais reais.  
-Os dados foram tratados e modelados diretamente no **Power Query**, e cada projeto inclui insights principais e pontos de melhoria.
-
+Os dados foram tratados e modelados diretamente no **Power Query**.
 ---
 
 ## 📁 Projetos incluídos
