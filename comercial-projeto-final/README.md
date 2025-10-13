@@ -5,7 +5,7 @@ O projeto foi criado para analisar o **desempenho comercial da empresa fictícia
 
 🔗 **Dashboard público:** [Visualizar no Power BI](https://app.powerbi.com/view?r=eyJrIjoiZDI3YTMxZTktZWNiZS00OTU5LTgyMDItNmYyOGY1MjRjM2MzIiwidCI6ImRhZGFhOGQzLTIxYWEtNGRjNS05ODBlLTFiZjI0ZWY5Yzc0OCJ9)
 ---
-![Dashboard]()
+![Dashboard](https://github.com/Luan-bs/data-analysis-powerbi/blob/main/comercial-projeto-final/dashboard_imagem.png)
 ## 🎯 Objetivos do Projeto
 - Realizar uma **análise exploratória de dados** voltada ao setor comercial.  
 - Aplicar técnicas de **limpeza, normalização e modelagem** no Power Query.  
@@ -24,7 +24,7 @@ O modelo foi estruturado em **Esquema Estrela (Star Schema)**, com a tabela fato
 - Forma de Pagamento  
 - Nota  
 
-![Modelo de Dados]()
+![Modelo de Dados](https://github.com/Luan-bs/data-analysis-powerbi/blob/main/comercial-projeto-final/modelagem_dados.png)
 
 ---
 
