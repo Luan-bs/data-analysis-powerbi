@@ -3,7 +3,7 @@
 Dashboard desenvolvido no **Power BI** com base em um conjunto de dados simulados contendo **35.762 registros de notas fiscais**.  
 O projeto foi criado para analisar o **desempenho comercial da empresa fictícia “Bpk Vendas”**, abrangendo produtos, clientes, vendedores, fornecedores e formas de pagamento.
 
-🔗 **Dashboard público:** [Visualizar no Power BI](https://app.powerbi.com/view?r=eyJrIjoiZDI3YTMxZTktZWNiZS00OTU5LTgyMDItNmYyOGY1MjRjM2MzIiwidCI6ImRhZGFhOGQzLTIxYWEtNGRjNS05ODBlLTFiZjI0ZWY5Yzc0OCJ9)
+🔗 **Dashboard público:** [Visualizar no Power BI](https://app.powerbi.com/view?r=eyJrIjoiZWNiYTdmNzEtZWI2MS00MmY2LTg4YzktMTRhYjNiMWE1OTI0IiwidCI6ImRhZGFhOGQzLTIxYWEtNGRjNS05ODBlLTFiZjI0ZWY5Yzc0OCJ9)
 ---
 ![Dashboard](https://github.com/Luan-bs/data-analysis-powerbi/blob/main/comercial-projeto-final/dashboard_imagem.png)
 ## 🎯 Objetivos do Projeto
