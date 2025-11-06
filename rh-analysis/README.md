@@ -3,7 +3,7 @@
 Projeto desenvolvido no **Power BI**, com dados simulados contendo **1.971 funcionários e 21 colunas**.  
 O objetivo é analisar o perfil e o desempenho dos colaboradores através de indicadores de **diversidade, engajamento e remuneração**.
 
-🔗 **Dashboard público:** [Visualizar no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMThiNjQ1ZTktYzA1OC00ZTc2LWEzY2EtNDk0ZGE4N2UyYmJmIiwidCI6ImRhZGFhOGQzLTIxYWEtNGRjNS05ODBlLTFiZjI0ZWY5Yzc0OCJ9)
+🔗 **Dashboard público:** [Visualizar no Power BI](https://app.powerbi.com/view?r=eyJrIjoiZmQ5MTExNTQtZTljZC00Y2Q3LWIxNDItOTgyOWM1NzE4ZTVlIiwidCI6ImRhZGFhOGQzLTIxYWEtNGRjNS05ODBlLTFiZjI0ZWY5Yzc0OCJ9)
 ---
 ![Tela](https://github.com/Luan-bs/data-analysis-powerbi/blob/main/rh-analysis/dashboard_imagem.png)
 ## 📊 Perguntas respondidas
